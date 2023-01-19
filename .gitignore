@@ -1,1 +1,15 @@
 #gitignore
+.idea/
+.vs/
+out/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-local/
+output/
+dist/
+.DS_Store
+__pycache__/
+lib_location.txt
+version_number.txt
+dearpygui.egg-info/
+build/
